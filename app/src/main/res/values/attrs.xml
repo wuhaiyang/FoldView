@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="aa_rich_textview_attrs">
+        <attr name="text_normal_color" format="color"></attr>
+        <attr name="text_hightlight_color" format="color"></attr>
+        <attr name="text_normal_size" format="dimension"></attr>
+        <attr name="text_hightlight_size" format="dimension"></attr>
+        <attr name="text_row_space" format="dimension"></attr>
+    </declare-styleable>
+
+
+</resources>
