@@ -6,7 +6,10 @@ import java.util.List;
  * User: Geek_Soledad(wuhaiyang@danlu.com)
  * Date: 2016-08-23
  * Time: 16:02
- * Description: .....
+ * Description:
+ *
+ *  添加注释-》jenkins
+ *
  */
 public class WrapData {
 
